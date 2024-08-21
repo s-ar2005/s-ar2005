@@ -1,3 +1,5 @@
+THIS PROFILE IS DEPRECATED.
+
 - 👋 Hi, I’m **Sarah** <3
 - 👀 I’m interested in **BatchFile coding**
 - 🌱 I’m currently learning **BatchFile**
